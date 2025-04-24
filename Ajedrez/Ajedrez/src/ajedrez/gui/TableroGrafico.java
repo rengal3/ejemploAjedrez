@@ -21,7 +21,7 @@ import java.awt.event.MouseListener;
 
 /**
  *
- * @author Armand
+ * @author Renato cAstillo
  */
 public class TableroGrafico extends JFrame {
     private JLabel escaques[][];
